@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1780264383 source:c:\1parcial\calculadoras\calculadorad.cpp
+	"CalculadoRAS.h"
+	<iostream>
+
+1780264246 c:\1parcial\calculadoras\calculadoras.h
+
+1780264304 source:c:\1parcial\calculadoras\caln.cpp
+	"CalculadoraNueva.h"
+	<iostream>
+
+1780264392 c:\1parcial\calculadoras\calculadoranueva.h
+	"CalculadoRAS.h"
+

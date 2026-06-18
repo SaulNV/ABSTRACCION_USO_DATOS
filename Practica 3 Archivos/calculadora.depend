@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1780257218 source:c:\1parcial\calculadora\calculadora\main.cpp
+	<stdio.h>
+	<iostream>
+	"Calculadora.h"
+
+1780255218 c:\1parcial\calculadora\calculadora\calculadora.h
+
+1780255251 source:c:\1parcial\calculadora\calculadora\calculadora.cpp
+	"Calculadora.h"
+

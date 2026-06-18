@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entidades>
+  <entidad>
+    <nombre>Juan</nombre>
+    <edad>15</edad>
+  </entidad>
+  <entidad>
+    <nombre>Ana</nombre>
+    <edad>18</edad>
+  </entidad>
+  <entidad>
+    <nombre>Maria</nombre>
+    <edad>19</edad>
+  </entidad>
+  <entidad>
+    <nombre>Saulito</nombre>
+    <edad>20</edad>
+  </entidad>
+  <entidad>
+    <nombre>Diego</nombre>
+    <edad>22</edad>
+  </entidad>
+  <entidad>
+    <nombre>Carlos</nombre>
+    <edad>25</edad>
+  </entidad>
+  <entidad>
+    <nombre>Beto</nombre>
+    <edad>30</edad>
+  </entidad>
+</entidades>

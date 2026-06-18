@@ -1,0 +1,37 @@
+[
+  {
+    "origen": 0,
+    "destino": 1,
+    "arista": "Arista_A",
+    "tiempo": 10,
+    "costo": 50
+  },
+  {
+    "origen": 0,
+    "destino": 2,
+    "arista": "Arista_B",
+    "tiempo": 15,
+    "costo": 20
+  },
+  {
+    "origen": 1,
+    "destino": 3,
+    "arista": "Arista_C",
+    "tiempo": 5,
+    "costo": 100
+  },
+  {
+    "origen": 2,
+    "destino": 3,
+    "arista": "Arista_D",
+    "tiempo": 30,
+    "costo": 10
+  },
+  {
+    "origen": 5,
+    "destino": 7,
+    "arista": "a",
+    "tiempo": 10,
+    "costo": 5
+  }
+]

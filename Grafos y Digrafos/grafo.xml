@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rutas>
+  <conexion>
+    <origen>0</origen>
+    <destino>1</destino>
+    <arista>Arista_A</arista>
+    <tiempo>10</tiempo>
+    <costo>50</costo>
+  </conexion>
+  <conexion>
+    <origen>0</origen>
+    <destino>2</destino>
+    <arista>Arista_B</arista>
+    <tiempo>15</tiempo>
+    <costo>20</costo>
+  </conexion>
+  <conexion>
+    <origen>1</origen>
+    <destino>3</destino>
+    <arista>Arista_C</arista>
+    <tiempo>5</tiempo>
+    <costo>100</costo>
+  </conexion>
+  <conexion>
+    <origen>2</origen>
+    <destino>3</destino>
+    <arista>Arista_D</arista>
+    <tiempo>30</tiempo>
+    <costo>10</costo>
+  </conexion>
+  <conexion>
+    <origen>5</origen>
+    <destino>7</destino>
+    <arista>a</arista>
+    <tiempo>10</tiempo>
+    <costo>5</costo>
+  </conexion>
+</rutas>

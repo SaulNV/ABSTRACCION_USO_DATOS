@@ -1,0 +1,16 @@
+{
+  "Practica": "Practica 8 - Numeros",
+  "Numeros": [
+    5,
+    6,
+    7,
+    3,
+    4
+  ],
+  "Resultados": {
+    "suma": 25,
+    "promedio_media": 5,
+    "maximo": 7,
+    "minimo": 3
+  }
+}

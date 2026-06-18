@@ -1,0 +1,12 @@
+PRACTICA 8 - NUMEROS
+
+Numero 1: 5
+Numero 2: 6
+Numero 3: 7
+Numero 4: 3
+Numero 5: 4
+
+Suma: 25
+Promedio / Media: 5
+Maximo: 7
+Minimo: 3

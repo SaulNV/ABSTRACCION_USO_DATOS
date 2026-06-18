@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Practica8>
+  <Numeros>
+    <Numero1>5</Numero1>
+    <Numero2>6</Numero2>
+    <Numero3>7</Numero3>
+    <Numero4>3</Numero4>
+    <Numero5>4</Numero5>
+  </Numeros>
+  <Resultados>
+    <Suma>25</Suma>
+    <PromedioMedia>5</PromedioMedia>
+    <Maximo>7</Maximo>
+    <Minimo>3</Minimo>
+  </Resultados>
+</Practica8>

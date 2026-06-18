@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Juan",
+    "edad": 15
+  },
+  {
+    "nombre": "Ana",
+    "edad": 18
+  },
+  {
+    "nombre": "Maria",
+    "edad": 19
+  },
+  {
+    "nombre": "Saulito",
+    "edad": 20
+  },
+  {
+    "nombre": "Diego",
+    "edad": 22
+  },
+  {
+    "nombre": "Carlos",
+    "edad": 25
+  },
+  {
+    "nombre": "Beto",
+    "edad": 30
+  }
+]
