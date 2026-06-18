@@ -6,6 +6,7 @@ Este repositorio contiene las practicas y desarrollos correspondientes al tercer
 * Núñez Velasco Saúl
 * Sanchez Romero Diego
 * Rios Solorio Samanta
+* Hernández Moreno David Isai 
 
 ---
 
