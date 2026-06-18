@@ -1,4 +1,4 @@
-## Abstraccion y Uso de Datos - Segundo Parcial
+## Abstraccion y Uso de Datos - Tercer Parcial
 
 Este repositorio contiene las practicas y desarrollos correspondientes al tercer parcial de la asignatura
 
